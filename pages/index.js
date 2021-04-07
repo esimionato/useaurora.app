@@ -21,10 +21,7 @@ const Index = () => (
         name="twitter:description"
         content="Open Source Cookieless Analytics Platform - Designed for Humans & Developers"
       />
-      <meta
-        name="twitter:image:src"
-        content="https://www.useaurora.app/og.png"
-      />
+      <meta name="og:image" content="https://www.useaurora.app/og.png" />
     </Head>
 
     <Hero />
