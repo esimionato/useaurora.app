@@ -12,7 +12,7 @@ const Index = () => (
         name="description"
         content="Aurora is the Open Source Cookieless Analytics Platform - Designed for Humans & Developers"
       />
-      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:url" content="https://www.useaurora.app" />
       <meta name="twitter:site" content="@itsrennyman" />
       <meta name="twitter:creator" content="@itsrennyman" />
