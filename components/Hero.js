@@ -1,19 +1,13 @@
 const Hero = () => (
   <div className="bg-gray-800 relative z-20 py-16 lg:py-24 transform -skew-y-6 -mt-28">
     <div className="max-w-screen-xl relative mx-auto transform skew-y-6 px-4 sm:px-6 lg:px-8 pt-12 lg:pt-20 pb-40 md:pb-64 lg:pb-134">
-      <div className="text-center mt-20">
-        <p className="text-gray-50 text-xs sm:text-sm font-medium uppercase">
-          Bye Bye Google Analytics! 👋
-        </p>
-        <h2 className="mt-4 sm:mt-5 text-4xl tracking-tight leading-9 sm:leading-10 font-bold text-white sm:text-6xl sm:leading-none xl:text-7xl">
-          Use&nbsp;
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500">
-            Aurora
-          </span>
-          !
-        </h2>
-        <p className="mt-3 mx-auto text-base text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          The Open Source Analytics Platform - Made for Humans &amp; Developers.
+      <div className="text-center mt-20 space-y-10">
+        <div className="mt-4 sm:mt-10 flex justify-center">
+          <img src="/Aurora_Logo.svg" className="h-14 sm:h-24" />
+        </div>
+        <p className="mx-auto text-base text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+          Website's analytics made easy! Cookieless & Privacy Focus out of the
+          Box. Built in NextJS.
         </p>
 
         <div className="flex justify-center mt-20 space-x-4">
